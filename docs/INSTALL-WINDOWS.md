@@ -79,7 +79,7 @@ After that it copies and hashes every source file, extracts the text, and starts
 If the repo is published, skip steps 2 above entirely and run this inside Claude Code:
 
 ```
-/plugin marketplace add GITHUB_OWNER/GITHUB_REPO
+/plugin marketplace add Gabriel-Omat/rfp-intake
 /plugin install rfp-intake@target-tools
 ```
 

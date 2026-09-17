@@ -2,14 +2,14 @@
 
 A Claude Code skill that turns a folder of RFP documents into a traceable, cited project packet for estimating: it extracts and indexes every page, builds requirement and scope registers linked to exact evidence, reconciles amendments, and reports what still blocks estimating.
 
-Runs on Windows, macOS and Linux. Everything stays local — no API key, no database, no uploads.
+Runs on Windows, macOS and Linux (tested on Windows and macOS). Requires Python 3.11 or newer. Everything stays local — no API key, no database, no uploads.
 
 ## Install (Claude Code)
 
 In a Claude Code session, run these two commands:
 
 ```
-/plugin marketplace add gabeomat/rfp-intake
+/plugin marketplace add Gabriel-Omat/rfp-intake
 /plugin install rfp-intake@target-tools
 ```
 
@@ -18,7 +18,7 @@ That's it — git is not required, and Claude Code picks the skill up immediatel
 Prefer the terminal? The same thing without opening a session:
 
 ```powershell
-claude plugin marketplace add gabeomat/rfp-intake
+claude plugin marketplace add Gabriel-Omat/rfp-intake
 claude plugin install rfp-intake@target-tools --scope user
 ```
 
