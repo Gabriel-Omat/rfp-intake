@@ -1,0 +1,13 @@
+{
+  "name": "target-tools",
+  "owner": {
+    "name": "Gabriel Omat"
+  },
+  "plugins": [
+    {
+      "name": "rfp-intake",
+      "source": "./plugins/rfp-intake",
+      "description": "Prepare construction RFP and solicitation packages for estimating: extract and index the source documents, build cited requirements and scope registers, reconcile amendments, and report readiness."
+    }
+  ]
+}

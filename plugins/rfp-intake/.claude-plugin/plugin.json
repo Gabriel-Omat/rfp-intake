@@ -1,0 +1,9 @@
+{
+  "name": "rfp-intake",
+  "description": "RFP intake and project packet builder for construction estimating teams.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Gabriel Omat"
+  },
+  "license": "SEE LICENSE IN LICENSE"
+}

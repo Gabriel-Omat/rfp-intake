@@ -1,0 +1,69 @@
+Copyright (c) 2026 Gabriel Omat. All rights reserved.
+
+RFP INTAKE SKILL — CLIENT USE LICENSE
+
+This software is source-available, not open source. Being able to read it here
+does not grant any right to use it beyond the terms below.
+
+1. Definitions
+   "Software" means this repository and everything in it, including the skill
+   instructions, the processor scripts, and the reference documents.
+   "Licensor" means Gabriel Omat.
+   "Authorized Client" means a company or individual that Licensor has
+   authorized in writing (email is sufficient) to use the Software.
+
+2. Grant
+   Licensor grants each Authorized Client a non-exclusive, non-transferable,
+   revocable license to install and use the Software internally, on computers
+   that Authorized Client owns or controls, for its own business purposes.
+   Employees and contractors of an Authorized Client may use the Software for
+   that client's work.
+
+3. Restrictions
+   Except with Licensor's prior written permission, no person may:
+   (a) redistribute, publish, sublicense, sell, rent, or host the Software, in
+       original or modified form;
+   (b) use the Software to provide a service, product, or deliverable to a third
+       party other than in the ordinary course of the Authorized Client's own
+       business;
+   (c) create or distribute derivative works, other than local modifications an
+       Authorized Client makes for its own internal use, which remain subject to
+       this license;
+   (d) remove or alter this license or any copyright notice.
+
+4. Evaluation
+   Anyone may read the Software and run it against their own documents solely to
+   evaluate whether to license it. Evaluation use is limited to 30 days and
+   confers no other rights.
+
+5. Ownership
+   Licensor retains all right, title, and interest in the Software. No rights are
+   granted by implication or estoppel.
+
+6. No warranty
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, AND NONINFRINGEMENT. The Software
+   assists with document intake and organization. It does not verify, certify, or
+   guarantee that any requirement, quantity, deadline, amendment, or obligation
+   has been found, read, or correctly interpreted. All bid, pricing, compliance,
+   and submission decisions remain the sole responsibility of the user and its
+   qualified personnel.
+
+7. Limitation of liability
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL LICENSOR BE LIABLE
+   FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT, OR
+   OTHERWISE, ARISING FROM OR IN CONNECTION WITH THE SOFTWARE OR ITS USE,
+   INCLUDING WITHOUT LIMITATION LOST PROFITS, LOST OR MISPRICED BIDS, MISSED
+   DEADLINES, CONTRACT AWARDS OR LOSSES, OR ANY INDIRECT, INCIDENTAL, SPECIAL,
+   CONSEQUENTIAL, OR PUNITIVE DAMAGES. Licensor's total aggregate liability
+   shall not exceed the amounts paid to Licensor for the Software in the twelve
+   months preceding the claim, or USD 100 if no amounts were paid.
+
+8. Termination
+   This license terminates automatically upon breach of any term, and may be
+   revoked by Licensor on written notice. Upon termination, the Authorized Client
+   shall stop using and delete its copies of the Software. Sections 5 through 7
+   survive termination.
+
+For licensing inquiries, contact Gabriel Omat at coachme@gabrielomat.com.
